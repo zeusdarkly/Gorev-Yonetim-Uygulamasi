@@ -6,7 +6,6 @@ Görev Yönetim Uygulaması, görevlerinizi etkin bir şekilde yönetmenizi sağ
 
 - Görev ekleme ve düzenleme
 - Görevlerin tamamlanma durumunu takip etme
-- Görevlerin tamamlanma yüzdesini görüntüleme
 - Kullanıcı dostu arayüz
 
 ![Ekran görüntüsü 2024-08-12 200138](https://github.com/user-attachments/assets/4deb3679-af05-43bd-85b1-fa1b232846d4)
