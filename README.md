@@ -15,4 +15,3 @@ Görev Yönetim Uygulaması, görevlerinizi etkin bir şekilde yönetmenizi sağ
  **Görev Yönetimi:**
    - Görevlerinizi eklemek için arayüzdeki "Görev Ekle" butonunu kullanın.
    - Görevlerin tamamlanma durumlarını takip edin ve gerekli düzenlemeleri yapın.
-   - Tamamlanma yüzdesini kontrol edin ve görevlerinizi organize edin.
