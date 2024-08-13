@@ -11,13 +11,6 @@ Görev Yönetim Uygulaması, görevlerinizi etkin bir şekilde yönetmenizi sağ
 
 ![Ekran görüntüsü 2024-08-12 200138](https://github.com/user-attachments/assets/4deb3679-af05-43bd-85b1-fa1b232846d4)
 
-## Kurulum
-
- **Gerekli Kütüphaneleri Yükleyin:**
-   - Projenin kök dizininde bir terminal açın ve gerekli kütüphaneleri yüklemek için şu komutu çalıştırın:
-     ```bash
-     pip install -r requirements.txt
-     ```
 ## Kullanım
 
  **Görev Yönetimi:**
